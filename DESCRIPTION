@@ -10,7 +10,7 @@ Depends:
     RPostgres,
     dygraphs,
     ggplot2
-Imports:
+Suggests:
     Cairo
 License: # getOptions('devtools.desc.license')
 LazyData: true
