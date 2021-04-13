@@ -9,7 +9,8 @@ Depends:
     lubridate,
     RPostgres,
     dygraphs,
-    ggplot2,
+    ggplot2
+Imports:
     Cairo
 License: # getOptions('devtools.desc.license')
 LazyData: true
