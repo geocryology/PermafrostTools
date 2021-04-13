@@ -1,0 +1,426 @@
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/hc_ground_implicit.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/hc_ground_implicit.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/hc_ground_implicit.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/hc_ground_implicit.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/hc_ground_implicit.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/hc_ground_implicit.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/hc_ground_implicit.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/hc_ground_implicit.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/hc_ground_implicit.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+mat
+mat.sno <- mat[ layers.sno,]
+mat.sno
+mat.gnd <- mat[ -layers.sno,]
+mat.gnd
+layers.sno <- c(1)
+mat.gnd <- mat[ -layers.sno,]
+mat.gnd
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/therm_cond.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/therm_cond.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/hc_ground_implicit.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/hc_ground_implicit.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/hc_ground_implicit.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/heat_capacity.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/heat_capacity.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/hc_ground_implicit.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/heat_capacity.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/heat_capacity.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/heat_capacity.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/heat_capacity.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/hc_ground_implicit.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/heat_capacity.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/heat_capacity.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/heat_capacity.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/heat_capacity.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/heat_capacity.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/hc_ground_implicit.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/hc_ground_implicit.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+#make material properties and discretization#
+mat <- data.frame( zj = -seq(from = 0, to = sz, by = dz), # depth of node [m]#
+                   dz = rep( dz, nz), # with of node [m]#
+                   Tj = rep( Ti, nz), # initial temperature [C]#
+                  soi = rep(0.5, nz), # volumetric proportion of soil matrix [0-1]#
+                  wat = rep(0.5, nz), # volumetric proportion of total water [0-1]#
+                  liq = rep(  0, nz), # calculate later, volumetric proportion of liquid water [0-1]#
+                  ice = rep(  0, nz), # calculate later, volumetric proportion of ice [0-1]                #
+                k.soi = rep(2.5, nz), # thermal conductivity of soil matrix [W m-1 K-1]#
+                c.soi = rep(2e6, nz)  # volumetric heat capacity of soil matrix [J m-3 K-1]#
+)
+shift(mat$zj, 0, -1)
+ncol(mat)
+a<-data.frame(t=array(c(  1,    1,    1,    1), dim = c(1, 4)),k=array(c(  1,    1,    1,    1), dim = c(1, 4)))
+a
+a$t
+a<-list(t=array(c(  1,    1,    1,    1), dim = c(1, 4)),k=array(c(  1,    1,    1,    1), dim = c(1, 4)))
+a
+mat <- data.frame( zj = -seq(from = 0, to = sz, by = dz), # depth of node [m]#
+                   dz = rep( dz, nz), # with of node [m]#
+                   Tj = rep( Ti, nz), # initial temperature [C]#
+                  soi = rep(0.5, nz), # volumetric proportion of soil matrix [0-1]#
+                  wat = rep(0.5, nz), # volumetric proportion of total water [0-1]#
+                  liq = rep(  0, nz), # calculate later, volumetric proportion of liquid water [0-1]#
+                  ice = rep(  0, nz), # calculate later, volumetric proportion of ice [0-1]                #
+                k.soi = rep(2.5, nz), # thermal conductivity of soil matrix [W m-1 K-1]#
+                c.soi = rep(2e6, nz)  # volumetric heat capacity of soil matrix [J m-3 K-1]#
+)
+dim(mat$Tj)
+mat$Tj
+is.array(mat$Tj)
+length(mat$Tj)
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+Tj <- array(c(  1,    1,    1,    1), dim = c(1, 4))
+a<-data.frame(f=c(  1,    1,    1,    1))
+a$f<- Tj
+a$f <- Tj[]
+a$f <- t(Tj[])
+a$f
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/hc_ground_implicit.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/hc_ground_implicit.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/hc_ground_implicit.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+Tj <- array(c(  1,    1,    1,    1), dim = c(1, 4))
+Tj
+Tj[,]
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/hc_ground_implicit.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/hc_ground_implicit.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+str(out.Tj)
+plot(out$Tj[1,],mat$dz)
+plot(out.Tj[1,],mat$dz)
+#make material properties and discretization#
+mat <- data.frame( zj = -seq(from = 0, to = sz, by = dz), # depth of node [m]#
+                   dz = rep( dz, nz), # with of node [m]#
+                   Tj = rep( Ti, nz), # initial temperature [C]#
+                  soi = rep(0.5, nz), # volumetric proportion of soil matrix [0-1]#
+                  wat = rep(0.5, nz), # volumetric proportion of total water [0-1]#
+                  liq = rep(  0, nz), # calculate later, volumetric proportion of liquid water [0-1]#
+                  ice = rep(  0, nz), # calculate later, volumetric proportion of ice [0-1]                #
+                k.soi = rep(2.5, nz), # thermal conductivity of soil matrix [W m-1 K-1]#
+                c.soi = rep(2e6, nz)  # volumetric heat capacity of soil matrix [J m-3 K-1]#
+)
+plot(out.Tj[1,],mat$dz)
+plot(out.Tj[1,],mat$zj)
+plot(out.Tj[1,],mat$zj, type="l")
+for (n in 1:300) lines(out.Tj[n,],mat$zj)
+plot(out.Tj[1,],mat$zj, type="l",xlim=c(-1.2 , 2))
+for (n in 1:300) lines(out.Tj[n,],mat$zj)
+for (n in 1:300) plot(out.Tj[n,],mat$zj, type="l",xlim=c(-1.2 , 2))
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+for (n in 1:360) plot(out.Tj[n,],mat$zj, type="l",xlim=c(-1.2 , 2))
+for (n in 1:360) {#
+	plot(out.Tj[n,],mat$zj, type="l",xlim=c(-1.2 , 2))     #
+	abline(v=0)#
+}
+for (n in 1:360) {#
+	plot(out.liq[n,],mat$zj, type="l",xlim=c(0 , 0.5))     #
+	abline(v=0)#
+}
+str(out.liq)
+for (n in 1:36) {#
+	plot(out.liq[n,],mat$zj, type="l",xlim=c(0 , 0.5))     #
+	abline(v=0)#
+}
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+for (n in 1:36) {#
+	plot(out.liq[n,],mat$zj, type="l",xlim=c(0 , 0.5))     #
+	abline(v=0)#
+}
+for (n in 1:36) {#
+	plot(out.Tj[n,],mat$zj, type="l",xlim=c(-1.2 , 3))     #
+	abline(v=0)#
+}
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+str(out.liq)
+for (n in 1:147) {#
+	plot(out.Tj[n,],mat$zj, type="l",xlim=c(-1.2 , 3))     #
+	abline(v=0)#
+}
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/soil_discretize.R")
+SoilDiscretize(0.01, 20, 1.2)
+SoilDiscretize(0.02, 25, 1.12)
+SoilDiscretize(0.02, 25, 1.15)
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/soil_discretize.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+SoilDiscretize(0.02, 25, 1)
+SoilDiscretize(0.1, 20, 1)
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+SoilDiscretize(0.1, 20, 1)
+SoilDiscretize(0.1, 20, 1.2)
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/experiment.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/therm_cond.R")
+rho.i <-  917  # [kg m-3]#
+ rho.l <- 1000  # [kg m-3]#
+ mat   <- data.frame(ice = (0:600)/1000, #
+                     liq = rep(0.0,601))#
+ dens  <- mat$ice*rho.i + mat$liq*rho.l#
+ mat <- SnowTermCond(mat, type.sno = "CALONNE", layers.sno = 1:601)#
+ plot(dens, mat$kj, type = "l", col = "black", main = #
+      "Comparison of parameterization for snow thermal conductivity", #
+      xlab = "Density [kg m-3]", ylab = "Thermal conductivity [W m-1 K-1]")#
+ mat <- SnowTermCond(mat , type.sno = "YEN", layers.sno = 1:601)#
+ lines(dens, mat$kj, col = "red")#
+ mat <- SnowTermCond(mat , type.sno = "COSENZA", layers.sno = 1:601)#
+ lines(dens, mat$kj, col = "blue")#
+ mat <- SnowTermCond(mat , type.sno = "STURM", layers.sno = 1:601)#
+ lines(dens, mat$kj, col = "green")#
+ mat <- SnowTermCond(mat , type.sno = "WILLIAMS", layers.sno = 1:601)#
+ lines(dens, mat$kj, col = "orange")#
+ mat <- SnowTermCond(mat , type.sno = "JORDAN", layers.sno = 1:601)#
+ lines(dens, mat$kj, col = "darkorchid2")#
+ legend("topleft", inset=.05, seg.len = 2, lty = 1, lwd =1,#
+   	   c("CALONNE","YEN","COSENZA", "STURM", "WILLIAMS", "JORDAN"), #
+   	   col = c("black", "red", "blue", "green", "orange", "darkorchid2"))
+rho.i <-  917  # [kg m-3]#
+ rho.l <- 1000  # [kg m-3]#
+ mat   <- data.frame(ice = (0:600)/1000, #
+                     liq = rep(0.0,601))#
+ dens  <- mat$ice*rho.i + mat$liq*rho.l#
+ mat <- TermCond(mat, type.sno = "CALONNE", layers.sno = 1:601)#
+ plot(dens, mat$kj, type = "l", col = "black", main = #
+      "Comparison of parameterization for snow thermal conductivity", #
+      xlab = "Density [kg m-3]", ylab = "Thermal conductivity [W m-1 K-1]")#
+ mat <- TermCond(mat , type.sno = "YEN", layers.sno = 1:601)#
+ lines(dens, mat$kj, col = "red")#
+ mat <- TermCond(mat , type.sno = "COSENZA", layers.sno = 1:601)#
+ lines(dens, mat$kj, col = "blue")#
+ mat <- TermCond(mat , type.sno = "STURM", layers.sno = 1:601)#
+ lines(dens, mat$kj, col = "green")#
+ mat <- TermCond(mat , type.sno = "WILLIAMS", layers.sno = 1:601)#
+ lines(dens, mat$kj, col = "orange")#
+ mat <- TermCond(mat , type.sno = "JORDAN", layers.sno = 1:601)#
+ lines(dens, mat$kj, col = "darkorchid2")#
+ legend("topleft", inset=.05, seg.len = 2, lty = 1, lwd =1,#
+   	   c("CALONNE","YEN","COSENZA", "STURM", "WILLIAMS", "JORDAN"), #
+   	   col = c("black", "red", "blue", "green", "orange", "darkorchid2"))
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/therm_cond.R")
+rho.i <-  917  # [kg m-3]#
+ rho.l <- 1000  # [kg m-3]#
+ mat   <- data.frame(ice = (0:600)/1000, #
+                     liq = rep(0.0,601))#
+ dens  <- mat$ice*rho.i + mat$liq*rho.l#
+ mat <- TermCond(mat, type.sno = "CALONNE", layers.sno = 1:601)#
+ plot(dens, mat$kj, type = "l", col = "black", main = #
+      "Comparison of parameterization for snow thermal conductivity", #
+      xlab = "Density [kg m-3]", ylab = "Thermal conductivity [W m-1 K-1]")#
+ mat <- TermCond(mat , type.sno = "YEN", layers.sno = 1:601)#
+ lines(dens, mat$kj, col = "red")#
+ mat <- TermCond(mat , type.sno = "COSENZA", layers.sno = 1:601)#
+ lines(dens, mat$kj, col = "blue")#
+ mat <- TermCond(mat , type.sno = "STURM", layers.sno = 1:601)#
+ lines(dens, mat$kj, col = "green")#
+ mat <- TermCond(mat , type.sno = "WILLIAMS", layers.sno = 1:601)#
+ lines(dens, mat$kj, col = "orange")#
+ mat <- TermCond(mat , type.sno = "JORDAN", layers.sno = 1:601)#
+ lines(dens, mat$kj, col = "darkorchid2")#
+ legend("topleft", inset=.05, seg.len = 2, lty = 1, lwd =1,#
+   	   c("CALONNE","YEN","COSENZA", "STURM", "WILLIAMS", "JORDAN"), #
+   	   col = c("black", "red", "blue", "green", "orange", "darkorchid2"))
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/therm_cond.R")
+rho.i <-  917  # [kg m-3]#
+ rho.l <- 1000  # [kg m-3]#
+ mat   <- data.frame(ice = (0:600)/1000, #
+                     liq = rep(0.0,601))#
+ dens  <- mat$ice*rho.i + mat$liq*rho.l#
+ mat <- TermCond(mat, type.sno = "CALONNE", layers.sno = 1:601)#
+ plot(dens, mat$kj, type = "l", col = "black", main = #
+      "Comparison of parameterization for snow thermal conductivity", #
+      xlab = "Density [kg m-3]", ylab = "Thermal conductivity [W m-1 K-1]")#
+ mat <- TermCond(mat , type.sno = "YEN", layers.sno = 1:601)#
+ lines(dens, mat$kj, col = "red")#
+ mat <- TermCond(mat , type.sno = "COSENZA", layers.sno = 1:601)#
+ lines(dens, mat$kj, col = "blue")#
+ mat <- TermCond(mat , type.sno = "STURM", layers.sno = 1:601)#
+ lines(dens, mat$kj, col = "green")#
+ mat <- TermCond(mat , type.sno = "WILLIAMS", layers.sno = 1:601)#
+ lines(dens, mat$kj, col = "orange")#
+ mat <- TermCond(mat , type.sno = "JORDAN", layers.sno = 1:601)#
+ lines(dens, mat$kj, col = "darkorchid2")#
+ legend("topleft", inset=.05, seg.len = 2, lty = 1, lwd =1,#
+   	   c("CALONNE","YEN","COSENZA", "STURM", "WILLIAMS", "JORDAN"), #
+   	   col = c("black", "red", "blue", "green", "orange", "darkorchid2"))
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/therm_cond.R")
+rho.i <-  917  # [kg m-3]#
+ rho.l <- 1000  # [kg m-3]#
+ mat   <- data.frame(ice = (0:600)/1000, #
+                     liq = rep(0.0,601))#
+ dens  <- mat$ice*rho.i + mat$liq*rho.l#
+ mat <- TermCond(mat, type.sno = "CALONNE", layers.sno = 1:601)#
+ plot(dens, mat$kj, type = "l", col = "black", main = #
+      "Comparison of parameterization for snow thermal conductivity", #
+      xlab = "Density [kg m-3]", ylab = "Thermal conductivity [W m-1 K-1]")#
+ mat <- TermCond(mat , type.sno = "YEN", layers.sno = 1:601)#
+ lines(dens, mat$kj, col = "red")#
+ mat <- TermCond(mat , type.sno = "COSENZA", layers.sno = 1:601)#
+ lines(dens, mat$kj, col = "blue")#
+ mat <- TermCond(mat , type.sno = "STURM", layers.sno = 1:601)#
+ lines(dens, mat$kj, col = "green")#
+ mat <- TermCond(mat , type.sno = "WILLIAMS", layers.sno = 1:601)#
+ lines(dens, mat$kj, col = "orange")#
+ mat <- TermCond(mat , type.sno = "JORDAN", layers.sno = 1:601)#
+ lines(dens, mat$kj, col = "darkorchid2")#
+ legend("topleft", inset=.05, seg.len = 2, lty = 1, lwd =1,#
+   	   c("CALONNE","YEN","COSENZA", "STURM", "WILLIAMS", "JORDAN"), #
+   	   col = c("black", "red", "blue", "green", "orange", "darkorchid2"))
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/therm_cond.R")
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/hc_ground_implicit.R")
+# THIS IS A QUICK REMINDER HOW TO WORK WITH PACKAGE DEVELOPMENT:#
+# SEE: https://cryophile.atlassian.net/wiki/display/PKB/R+package+on+git#
+#load required libraries#
+library(devtools)#
+library(roxygen2)#
+#build package#
+load_all("~/src/github-private/R-packages/PermafrostTools/") #load new data#
+document("~/src/github-private/R-packages/PermafrostTools/", clean = TRUE, reload = TRUE) #make documentation#
+check_doc(pkg = "~/src/github-private/R-packages/PermafrostTools/") #check documentation#
+build("~/src/github-private/R-packages/PermafrostTools/")    #build package#
+#install package from source#
+install.packages("~/src/github-private/R-packages/PermafrostTools_1.0.tar.gz",repos=NULL,type="source")#
+library(PermafrostTools)
+source("/Users/stgruber/src/github-private/R-packages/PermafrostTools/R/dall_amico.R")
+# THIS IS A QUICK REMINDER HOW TO WORK WITH PACKAGE DEVELOPMENT:#
+# SEE: https://cryophile.atlassian.net/wiki/display/PKB/R+package+on+git#
+#load required libraries#
+library(devtools)#
+library(roxygen2)#
+#build package#
+load_all("~/src/github-private/R-packages/PermafrostTools/") #load new data#
+document("~/src/github-private/R-packages/PermafrostTools/", clean = TRUE, reload = TRUE) #make documentation#
+check_doc(pkg = "~/src/github-private/R-packages/PermafrostTools/") #check documentation#
+build("~/src/github-private/R-packages/PermafrostTools/")    #build package#
+#install package from source#
+install.packages("~/src/github-private/R-packages/PermafrostTools_1.0.tar.gz",repos=NULL,type="source")#
+library(PermafrostTools)
+source("/Users/stgruber/src/R-packages/PermafrostTools/R/shift.R")
+library(microbenchmark)
+source("/Users/stgruber/src/R-packages/PermafrostTools/R/shift.R")
+library(microbenchmark)
+arr <- array(1:9, dim = c(3, 3))
+shift(arr, -1, 0)
+micrbenchmark(shift(arr, -1, 0))
+microbenchmark(shift(arr, -1, 0))
+.subset2(arr, 1)
+.subset2(arr, 4)
+.subset2(arr, 4)[3]
+.subset2(arr, 4)[2]
+.subset2(arr, 2)[2]
+.subset2(arr, 2)
+arr
+.subset2(arr, 2)
+.subset2(arr, 9)
+.subset2(arr, 4:5)
+.subset2(arr, 4)
+.subset(arr, 4)
+.subset(arr, 4,2)
+.subset(arr, 2,2)
+.subset(arr, 2:3)
+.subset(arr, 2:3,2:3)
+Rprof(tmp <- tempfile())
+shift(arr, -1, 0)
+Rprof()
+summaryRprof(tmp)
+unlink(tmp)
+require(data.table)
+microbenchmark(shift(arr, -1, 0))
+shift(arr, -1, 0)
+source("/Users/stgruber/src/R-packages/build_package.R")
+build_package(PermafrostTools)
+build_package("PermafrostTools")
+source("/Users/stgruber/src/R-packages/PermafrostTools/R/cranknicolson.R")
+source("/Users/stgruber/src/R-packages/build_package.R")
+build_package('PermafrostTools')
+build_package('PermafrostTools')

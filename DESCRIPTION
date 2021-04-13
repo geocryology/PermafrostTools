@@ -1,0 +1,34 @@
+Package: PermafrostTools
+Title: PermafrostTools
+Description: 
+Version: 1.3.3
+Author: Stephan Gruber <stephan.gruber@carleton.ca>
+Maintainer: Stephan Gruber <stephan.gruber@carleton.ca>
+Depends:
+    R (>= 3.0.1),
+    lubridate,
+    RPostgres,
+    dygraphs,
+    ggplot2,
+    Cairo
+License: # getOptions('devtools.desc.license')
+LazyData: true
+Collate:
+	'cranknicolson.R'
+	'dall_amico.R'
+	'hc_ground_implicit.R'
+	'heat_capacity.R'
+	'soil_discretize.R'
+	'temp_analytic_harmonic.R'
+	'therm_cond.R'
+	'trisol.R'
+	'unfrozen.R'
+	'TSA_data_import.R'
+	'TSA_plot.R'
+	'TSA_RD.R'
+	'TSA_row.R'
+	'TSA_snow_cover.R'
+	'TSA_subsetting.R'
+	'TSA_warming_periods.R'
+	'TSA_zero_curtain.R'
+RoxygenNote: 6.0.1
