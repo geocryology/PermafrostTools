@@ -1,7 +1,7 @@
 Package: PermafrostTools
 Title: PermafrostTools
-Description: 
-Version: 1.3.3
+Description: Tools for Permafrost
+Version: 1.3.4
 Author: Stephan Gruber <stephan.gruber@carleton.ca>
 Maintainer: Stephan Gruber <stephan.gruber@carleton.ca>
 Depends:
